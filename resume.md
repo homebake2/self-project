@@ -180,6 +180,13 @@ Next.js, TypeScript, Effector, GraphQL, Node.js, Strapi, Camunda.
 
 Реализация OAuth 2.0, GraphQL resolvers, backend-сервисов и интеграции с Camunda BPMN.
 
+**Веб-конфигуратор отделки печей и домов**
+
+React 19, Vite, TypeScript, MUI, Effector, React Router, jsPDF, html2canvas, Vercel.
+
+Разработка интерактивного конфигуратора: выбор бренда, типа постройки, кирпича и цвета с мгновенной визуализацией результата.
+
+
 **Другие проекты:**
 - BackApp — React Native, TypeScript, Node.js, разработка сервиса подписок и интеграция Paddle.
 - Сайт крупного картографического сервиса — Next.js, OAuth 2.0, интеграция ЮKassa и разработка UI Kit.

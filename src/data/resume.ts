@@ -14,7 +14,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: 3, suffix: '+', label: 'года коммерческой разработки' },
+  { value: 4, suffix: '+', label: 'лет коммерческой разработки' },
   { value: 7, suffix: '', label: 'ключевых проектов' },
   { value: 6, suffix: '', label: 'локалей с поддержкой RTL' },
   { value: 20, suffix: '+', label: 'компонентов в UI Kit' },
@@ -174,6 +174,7 @@ export const more = [
   { title: 'Яндекс.Витрина', text: 'Каталог, поиск, корзина, избранное, UI Kit.', stack: 'React · MobX · Storybook' },
   { title: 'Demuzo', text: 'Keycloak, NextAuth, аудиоплеер, админ-инструменты.', stack: 'Next.js · Effector' },
   { title: 'HRM-система', text: 'OAuth 2.0, GraphQL, Camunda BPMN.', stack: 'Next.js · Strapi' },
+  { title: 'Конфигуратор отделки печей и домов', text: 'Визуализация из слоёв, лупа, конфигурация в URL, выгрузка в PDF.', stack: 'React · Effector · MUI' },
   { title: 'BackApp', text: 'Сервис подписок и интеграция Paddle.', stack: 'React Native' },
   { title: 'Банк и ЕМИАС', text: 'KYC, запись к врачу, вакцинация, legacy-поддержка.', stack: 'React · Redux · Effector' },
 ];
